@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.liuminggit.lmws.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.liuminggit.lmws.MyBundle
 
 class MyApplicationService {
 
